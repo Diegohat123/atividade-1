@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+.content{
+  display: flex;
+  justify-content: space-around;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+}
